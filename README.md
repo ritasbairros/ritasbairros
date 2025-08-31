@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ritasbairros
 - 👀 I’m interested in machine learning and AI.
-- 🌱 I’m currently in the BSc in Data Science at Iscte.
+- 🎓 I hold a BSc in Data Science (Iscte) and an MSc in Business Intelligence. 
 - 💞️ I’m looking to collaborate on data science projects, especially in the health field.
 - 📫 You can reach me by bairros.rita@gmail.com
 
